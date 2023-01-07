@@ -98,9 +98,7 @@ There are some interesting directions for future work, including but not limited
 * safe multi-robot co-manipulation for transportation and assembly
 *  upgrade the MAV hardware and incorporate the target’s mass onto the system’s modeling
 *  strengthen the grasping capacity by using stronger materials and pneumatic actuation to scale up the solution
-* deploy the robot in outdoor or confined environments without a motion capture system
-* discover the possibility of combining aerialground robots by including pneumatic legged mobility
-
+* 
 
 
 

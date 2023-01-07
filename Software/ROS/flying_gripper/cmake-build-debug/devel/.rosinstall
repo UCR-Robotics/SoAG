@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhichao/catkin_ws/src/flying_gripper/cmake-build-debug/devel/setup.sh

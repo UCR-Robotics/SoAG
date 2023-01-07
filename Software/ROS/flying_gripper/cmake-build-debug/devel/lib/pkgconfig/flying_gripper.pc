@@ -1,0 +1,8 @@
+prefix=/home/zhichao/catkin_ws/src/flying_gripper/cmake-build-debug/devel
+
+Name: flying_gripper
+Description: Description of flying_gripper
+Version: 0.0.0
+Cflags: -I/home/zhichao/catkin_ws/src/flying_gripper/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
